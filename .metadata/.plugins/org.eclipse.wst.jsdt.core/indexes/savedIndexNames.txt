@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\Users\MAD_AMBIKA\Documents\ec_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

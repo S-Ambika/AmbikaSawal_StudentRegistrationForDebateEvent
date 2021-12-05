@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Dec 05 20:02:39 IST 2021
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\MAD_AMBIKA\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\9.0.50\\tomcat-embed-websocket-9.0.50.jar=WEB-INF/lib/tomcat-embed-websocket-9.0.50.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\MAD_AMBIKA\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-el\\9.0.50\\tomcat-embed-el-9.0.50.jar=WEB-INF/lib/tomcat-embed-el-9.0.50.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\MAD_AMBIKA\\.m2\\repository\\org\\springframework\\spring-web\\5.3.9\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
